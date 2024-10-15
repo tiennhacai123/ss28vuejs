@@ -1,0 +1,38 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name": "Cat 1",
+            "price": 1000,
+            "quantity": 20,
+            "description": "Cat 1 pro max",
+            "image":"https://cdn.tcquoctesaigon.edu.vn/wp-content/uploads/2024/06/hinh-meo-cam-phong-lon-1.jpg"
+        },
+        {
+            "id":2,
+            "name": "Cat 2",
+            "price": 2000,
+            "quantity": 0,
+            "description": "Cat 2 pro max",
+            "image":"https://www.thepoetmagazine.org/wp-content/uploads/2024/06/meme-meo.jpg"
+        },
+        {
+            "id":3,
+            "name": "Cat 3",
+            "price": 3000,
+            "quantity": 30,
+            "description": "Cat 3 pro max",
+            "image":"https://cdn2.fptshop.com.vn/unsafe/800x0/meme_meo_khoc_2_e580623a0a.jpg"
+        }
+    ],
+    "carts":[
+        {
+                "id":1,
+                "name": "Cat 1",
+                "price": 1000,
+                "quantity": 5,
+                "description": "Cat 1 pro max",
+                "image":"https://cdn.tcquoctesaigon.edu.vn/wp-content/uploads/2024/06/hinh-meo-cam-phong-lon-1.jpg"
+        }    
+    ]
+}
